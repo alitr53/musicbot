@@ -1,0 +1,15 @@
+{
+  "token":"MTE2MDI5Mjg0NDAyODg0MjAzNg.G7ck3g.ljQQxlm64juQw7FUsasBhUz6KVzyMBUhdPyCaI",
+  "prefix": ".",
+  
+  "clientID": "7e6b542c2d7b477c9e9502869a687ccc",
+  "clientSecret": "24ad116b415247ccb336febc4e3ec6c2",
+  "nodes": [
+    {
+    "host" : "narco.buses.rocks",
+    "port" : 2269,
+    "password" : "glasshost1984",
+    "secure" : false
+    }
+  ]
+  }
